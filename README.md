@@ -1,8 +1,8 @@
-Tugas Koordinasi SKT - A
-Nama: **Yoga Raditya Nala**
-NIM: **235150201111020**
+Tugas Koordinasi SKT - A  
+Nama: **Yoga Raditya Nala**  
+NIM: **235150201111020**  
 
-Link GitHub: https://github.com/yogarn/skt_coordination
+Link GitHub: https://github.com/yogarn/skt_coordination  
 
 ## Lab 1 – Simulasi Lamport Clock
 
